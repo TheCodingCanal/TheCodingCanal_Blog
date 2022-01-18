@@ -79,6 +79,15 @@ Formats code and docs according to our style guidelines using `prettier`
 yarn format
 ```
 
+## Git Dev Branch
+I would suggest creating a dev branch and then merging that into main when ready
+```sh
+git checkout main
+git pull origin main
+git merge dev
+git push origin main
+```
+
 
 ## Pull Requests
 
