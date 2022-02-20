@@ -2,7 +2,7 @@
 templateKey: 'blog-post'
 title: 'Getting Large Data Files into Azure for Analysis'
 date: 2021-12-21T15:04:10.000Z
-featuredpost: true
+featuredpost: false
 featuredimage: /img/azure.png
 description: 
 tags:
