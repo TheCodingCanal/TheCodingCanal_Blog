@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Possible Abstracts For Upcoming Conferences Sessions
 date: 2022-02-20T17:04:10.000Z
-featuredpost: true
+featuredpost: false
 featuredimage: /img/BitmojiSmiling.png
 description: 
 tags:
